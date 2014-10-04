@@ -11,7 +11,6 @@ public class Principal {
 	}
 
 
-
 	public void setX(String x) {
 		this.x = x;
 	}
