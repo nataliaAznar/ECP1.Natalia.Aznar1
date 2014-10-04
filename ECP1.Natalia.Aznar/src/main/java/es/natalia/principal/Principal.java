@@ -10,6 +10,7 @@ public class Principal {
 		return x;
 	}
 
+	
 	public void setX(String x) {
 		this.x = x;
 	}
