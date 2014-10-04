@@ -4,22 +4,17 @@ public class Principal {
 	String x;
 	String y;
 	
+	
+	
 	public String getX() {
 		return x;
 	}
 
 
+
 	public void setX(String x) {
 		this.x = x;
 	}
-	
-	
-
-
-	public String getY() {
-		return y;
-	}
-
 
 	public static void main(String[] args) {
 		System.out.println("main");
