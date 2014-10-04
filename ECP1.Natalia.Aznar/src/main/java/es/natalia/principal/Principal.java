@@ -12,7 +12,13 @@ public class Principal {
 	public void setX(String x) {
 		this.x = x;
 	}
+	
+	
 
+
+	public String getY() {
+		return y;
+	}
 
 
 	public static void main(String[] args) {
