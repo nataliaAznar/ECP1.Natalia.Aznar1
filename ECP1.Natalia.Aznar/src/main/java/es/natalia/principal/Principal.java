@@ -10,6 +10,13 @@ public class Principal {
 	}
 
 
+
+	public void setX(String x) {
+		this.x = x;
+	}
+
+
+
 	public static void main(String[] args) {
 		System.out.println("main");
 		System.out.println("hola");
